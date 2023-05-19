@@ -6,7 +6,7 @@ public class RunnerBatting
 {
     public static void main(String[]args)
     {
-        File file = new File("C:\\Users\\georg\\OneDrive\\Desktop\\AP CompSci\\Lab04-BattingAverage\\players.txt");
+        File file = new File("\\players.txt");
         Scanner input = null;
         try {
             input = new Scanner(file);
